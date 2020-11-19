@@ -1,0 +1,57 @@
+Cervus elaphus
+Elk aka Red Deer
+Odocoileus virginianus
+White-tailed Deer
+Odocoileus hemionus
+Mule Deer
+Taxidea taxus
+American Badger
+Urocitellus columbianus
+Columbian Ground Squirrel
+Unknown Animal
+Equus caballus
+Domestic Horse
+Mephitis mephitis
+Striped Skunk
+Bos taurus
+Domestic Cow
+Ursus arctos
+Brown Bear
+Ursus americanus
+American Black Bear
+Vulpes vulpes
+Red Fox
+Canis familiaris
+Domestic Dog
+Canis latrans
+Coyote
+Lynx rufus
+Bobcat
+Tamiasciurus hudsonicus
+American Red Squirrel
+Puma concolor
+Puma
+Unknown Canid
+Canis lupus
+Gray Wolf
+Alces alces
+Moose
+Unknown Bear
+Meleagris gallopavo
+Wild Turkey
+Mustela frenata
+Long-tailed Weasel
+Unknown Bird
+Bonasa umbellus
+Ruffed Grouse
+Lepus americanus
+Snowshoe Hare
+Raptor Species
+Raptor species
+Sylvilagus nuttallii
+Mountain Cottontail
+Unknown Small Weasel
+Corvus corax
+Common Raven
+Dendragapus obscurus
+Dusky Grouse
