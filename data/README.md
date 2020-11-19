@@ -1,3 +1,6 @@
+# All information data is stored in Firebase Realtime database
+# All images are stored in Firebase Storage
+#
 ### data_process.ipynb: used to clean and integrate data.
 ### image_download.ipynb: used to download images
 ### make_map.ipynb: used to create maps.
