@@ -1,5 +1,5 @@
 # DSCI_551_project
-Wildlife Diversity Monitoring
+Wildlife Diversity Monitoring \
 This is for USC DSCI 551 FALL 2020 project
 # Description
 The goal of this project is to allow users to search for some specific species of animals. In this case, it allows users to view the recorded positions, sexes, ages of those animals. All images used in my project are captured by wildlife camera traps. 
